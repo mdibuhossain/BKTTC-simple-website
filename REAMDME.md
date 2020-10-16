@@ -1,1 +1,1 @@
-This is Chadni's Website
+# A simple website for practice purpose.
